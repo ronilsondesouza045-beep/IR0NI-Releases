@@ -1,8 +1,16 @@
-﻿# IR0NI Releases
+# IR0NI Releases
 
-Repositorio oficial de downloads da extensao IR0NI.
+Downloads oficiais da extensao IR0NI.
 
-O codigo-fonte, servidor de licencas, chaves privadas, banco de clientes
-e configuracoes administrativas nao sao armazenados neste repositorio.
+Versao atual: v14.4
 
-Versao atual: v14.3
+Servidor de licencas:
+https://ir0ni-api-production.up.railway.app
+
+Nao sao publicados neste repositorio:
+
+- chave privada
+- ADMIN_TOKEN
+- banco de clientes
+- cookies
+- senhas do Facebook
