@@ -1,0 +1,6 @@
+﻿# Arquivos privados
+*.jwk.json
+.env
+.env.*
+data/
+node_modules/
