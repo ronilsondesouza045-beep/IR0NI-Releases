@@ -1,17 +1,14 @@
-# IR0NI Releases
+# GM Derken Releases
 
-Versao atual: v14.6
-
-Servidor:
-https://ir0ni-api-production.up.railway.app
+Versão atual: v14.7
 
 ## Novidades
 
-- Painel ADMIN corrigido
-- Presenca ONLINE/OFFLINE
-- Gerador de chave PRO por ID
-- Historico de licencas
-- Novidades remotas dentro da extensao
-- Sem botao manual de download no popup
-
-Nenhuma senha ou cookie do Facebook e coletado.
+- nome alterado para GM Derken
+- novo banner original
+- novo ícone da extensão
+- correção das letras bugadas
+- correção visual do cabeçalho
+- FREE / PRO preservados
+- ADMIN preservado
+- novidades online preservadas
